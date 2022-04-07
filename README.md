@@ -1,4 +1,4 @@
-# Proyecto final | Modelos de Programación IU
+# Proyecto final | Modelos de Programación I
 ## Aplicación de Patrones
 Este proyecto realiza un aplicativo de venta en línea para Cine Jungla, involucra el uso de patrones de diseño de software.
 
